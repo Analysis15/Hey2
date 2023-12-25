@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.container {
+  text-align: center;
+}
+
+.animation-figure {
+  width: 100px;
+  height: 100px;
+  background-color: pink; /* or your desired color */
+  border-radius: 50%;
+  margin: 20px auto;
+  /* Add your animation styles here */
+}
+
+.question {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
